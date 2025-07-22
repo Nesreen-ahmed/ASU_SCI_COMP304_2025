@@ -102,12 +102,12 @@
 ---
 ## :pushpin: Some Tips
 
-	- **Give functions and variables names that indicate what they do. This makes your code easier to understand and more readable.**
-	- **Break the task into smaller tasks and then solve them**
- 		- **ex : **
-   		- In a scanner, you need to know the next state at each step, so you can build a function that returns nextState(currentState, char) instead of writing more lines to do that step. This makes your code more readable.
-     	- **Again, Read your own code!**
-      	- **Feel free to ask in the WhatsApp group and discuss your problem and idea**
+ - **Give functions and variables names that indicate what they do. This makes your code easier to understand and more readable.**
+ - **Break the task into smaller tasks and then solve them**
+ - **ex : **
+   - In a scanner, you need to know the next state at each step, so you can build a function that returns nextState(currentState, char) instead of writing more lines to do that step. This makes your code more readable.
+ - **Again, Read your own code!**
+ - **Feel free to ask in the WhatsApp group and discuss your problem and idea**
 ---
 ## :link: References
 

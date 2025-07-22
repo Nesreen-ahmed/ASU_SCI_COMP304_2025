@@ -2,6 +2,7 @@
 
 > [!NOTE]
 > Please, read these files as they are without any changes!
+
 > "If these files have spaces between words, read them as they are. Simply modify your code!"
 
 ### Test Cases
@@ -16,7 +17,11 @@
 
 > [!NOTE]
 > Please, write your own code!
+
 > write your own code!
+
 > Write your own code!
+
 > You don't need to write the Doctors's code, your code must be unique from anyone else's "your Doctors, your friends" - just your own code!
+
 > I expect to read 20 different codes in the next lab.

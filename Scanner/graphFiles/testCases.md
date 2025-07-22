@@ -12,16 +12,18 @@
        
   2. `(1,2),(1,red),(34,2),(25,green),(3,yellow)`
        > Make sure that this entry should consider that `34` is a number and not `3` is a number and `4` is a number.
+       > NOTE!
+       > `(1,2),(1,red),(34,2),(2 5,green),(3,yellow)` If we have this input, the scanner should print <NUMBER, 25> and not <NUMBER, 2> <NUMBER, 5> and not <NUMBER, 2 5>.
        
         
   3. `(1,2),(1,red),(34,2),(25,green),(3,yello`
         > Make sure this entry should give an error!  
 
-> [!NOTE]
+> [!IMPORTANT]
 > Please, write your own code!
 > write your own code!
 > Write your own code!
 
-> [!NOTE]
+> [!IMPORTANT]
 > You don't need to write the Doctors's code, your code must be unique from anyone else's "your Doctors, your friends" - just your own code!
 > I expect to read 20 different codes in the next lab. go ahead! :muscle:

@@ -6,7 +6,9 @@
   > "If these files have spaces between words, read them as they are. Simply modify your code!"
 
 ### Test Cases
+
   1. `int intx int1 intint int iint = 34310 ;`
+     
        > What if **space** is a Final State (space is a Token), that means we have a transition like `q0   q5`.  
        
   > [!TIP]
@@ -20,9 +22,11 @@
 
   > [!NOTE]
   > Remember that your code should handle both cases of whether the space is Final or not automatically without any changes to your code! 
+
        
   2. `int intx int1 intint int iint = 34310 ;`
        > Make sure that this entry should consider that `int` is **INT**, `intx` is **VARIABLE** and not `int` is **INT** and `x` is **Variable**.
+
        
   3. Make sure to print your code with its own string like this: `<VARIABLE, intx >`
 

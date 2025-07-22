@@ -1,5 +1,5 @@
-# Compiler Course
-## ASU_SCI | `COMP304` | `Summer 2025`
+# 🧠 Compiler Course
+## `ASU_SCI` | `COMP304` | `Summer 2025`
 ---
 ###  Compiler Labs
 | Topic            | Status     | Date Covered      |

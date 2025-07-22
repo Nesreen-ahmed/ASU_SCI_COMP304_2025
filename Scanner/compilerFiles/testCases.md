@@ -7,7 +7,7 @@
 
 ### Test Cases
   1. `int intx int1 intint int iint = 34310 ;`
-       > What if **space** is a Final State (space is a Token), that means we have a transition like `q0   q5`.  
+        What if **space** is a Final State (space is a Token), that means we have a transition like `q0   q5`.  
        
      > [!TIP]
      > Remember that our case is that we have one space as a character, i.e. the case `q0           q5` is not our case.. we just have one space!

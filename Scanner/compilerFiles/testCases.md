@@ -5,6 +5,8 @@
 
   > "If these files have spaces between words, read them as they are. Simply modify your code!"
 
+> [!NOTE]
+> Solve problems one by one, don't try to solve them all at once.
 ### Test Cases
 
   1. `int intx int1 intint int iint = 34310 ;`

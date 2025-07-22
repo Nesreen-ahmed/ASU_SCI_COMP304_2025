@@ -10,16 +10,16 @@
        > What if **space** is a Final State (space is a Token), that means we have a transition like `q0   q5`.  
        
      > [!TIP]
-       > Remember that our case is that we have one space as a character, i.e. the case `q0           q5` is not our case.. we just have one space!
+     > Remember that our case is that we have one space as a character, i.e. the case `q0           q5` is not our case.. we just have one space!
        
      > [!TIP]
-       > Solve the problem in the simplest way to deal with this situation. I don't need a professional method!!
+     > Solve the problem in the simplest way to deal with this situation. I don't need a professional method!!
 
      > [!TIP]
-         > Just write your own function to separate your transition function file.
+     > Just write your own function to separate your transition function file.
 
      > [!NOTE]
-         > Remember that your code should handle both cases of whether the space is Final or not automatically without any changes to your code! 
+     > Remember that your code should handle both cases of whether the space is Final or not automatically without any changes to your code! 
        
   2. `int intx int1 intint int iint = 34310 ;`
        > Make sure that this entry should consider that `int` is **INT**, `intx` is **VARIABLE** and not `int` is **INT** and `x` is **Variable**.

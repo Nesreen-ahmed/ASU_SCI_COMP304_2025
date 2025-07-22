@@ -1,1 +1,1 @@
-int_t intx int1 intint int iint = 34310 ;
+int intx int1 intint int iint = 34310 ;

@@ -9,6 +9,7 @@
 | Bottom-up Parser | ⏳ Upcoming     | `...`     |
 | Solving Exams    | ⏳ Upcoming     | `...`    |
 
+---
 > [!IMPORTANT]
 > Please, write your own code!
 > write your own code!

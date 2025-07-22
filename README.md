@@ -9,3 +9,13 @@
 | Bottom-up Parser | ⏳ Upcoming     | `...`     |
 | Solving Exams    | ⏳ Upcoming     | `...`    |
 
+> [!IMPORTANT]
+> Please, write your own code!
+> write your own code!
+> Write your own code!
+
+> [!IMPORTANT]
+> You don't need to write the Doctors's code, your code must be unique from anyone else's "your Doctors, your friends" - just your own code!
+> I expect to read 20 different codes in the next lab. go ahead! :muscle:
+
+

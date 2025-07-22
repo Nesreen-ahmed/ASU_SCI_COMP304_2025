@@ -15,7 +15,7 @@
      > [!TIP]
      > Solve the problem in the simplest way to deal with this situation. I don't need a professional method!!
 
-     > [!TIP]
+     > [!IMPORTANT]
      > Just write your own function to separate your transition function file.
 
      > [!NOTE]

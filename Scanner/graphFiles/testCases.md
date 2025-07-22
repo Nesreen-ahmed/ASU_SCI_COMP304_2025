@@ -5,6 +5,8 @@
 
   > "If these files have spaces between words, read them as they are. Simply modify your code!"
 
+> [!NOTE]
+> Solve problems one by one, don't try to solve them all at once.
 ### Test Cases
   1. `(1,2),(1,red), (4,2),(5,green),(3,yellow)`
        > In this case the scanner should give an error because there is no **space** in our language (Automaton)!

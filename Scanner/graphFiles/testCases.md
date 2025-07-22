@@ -5,9 +5,6 @@
 
   > "If these files have spaces between words, read them as they are. Simply modify your code!"
 
-> **Note**  
-> This is a note
-> htbgnjvksv,
 ### Test Cases
   - `(1,2),(1,red), (4,2),(5,green),(3,yellow)`
       - > In this case the scanner should give an error because there is no **space** in our language (Automaton)!
@@ -20,15 +17,9 @@
 
 > [!NOTE]
 > Please, write your own code!
-
-> [!NOTE]
 > write your own code!
-
-> [!NOTE]
 > Write your own code!
 
 > [!NOTE]
 > You don't need to write the Doctors's code, your code must be unique from anyone else's "your Doctors, your friends" - just your own code!
-
-> [!NOTE]
 > I expect to read 20 different codes in the next lab.

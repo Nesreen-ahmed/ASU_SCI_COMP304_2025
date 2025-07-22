@@ -113,6 +113,7 @@
 
   - [Vector](https://www.geeksforgeeks.org/cpp/vector-in-cpp-stl/)
   - [Set](https://www.geeksforgeeks.org/cpp/set-in-cpp-stl/)
+  - [Pair](https://www.geeksforgeeks.org/cpp/pair-in-cpp-stl/)
   - [ForEachLoop](https://www.geeksforgeeks.org/cpp/g-fact-40-foreach-in-c-and-java/)
   - [Map](https://www.geeksforgeeks.org/cpp/map-associative-containers-the-c-standard-template-library-stl/)
   - [MAP_of_MAP](https://www.geeksforgeeks.org/cpp/implementing-multidimensional-map-in-c/)

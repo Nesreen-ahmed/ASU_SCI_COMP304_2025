@@ -71,8 +71,9 @@
         
   ❓ What do you need to implement this method in c++?
    ➡️First, we need to read the grammar from the input file and store it in a suitable data structure.
+   
    ➡️Second, we need to compare each pair of non-terminals with each other, and check if any rule leads to the left iteration. When it leads to it, you need to replace it with all the production rules.
-        Ex: using previous Example
+        `Ex:` using previous Example
         
           1️⃣ compare (B, A) for all B productions (C b | b), there is no rule has `A` then there is no rule that leads to left recursion.
           

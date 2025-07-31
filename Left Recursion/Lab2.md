@@ -86,7 +86,8 @@
 
    ✅Finally, Notice well that the order of the non-terminals important, and removeing Indirect recursion may lead to direct recursion.
 
-   💯 You can actually write your own algorithm, and I believe there is another algorithm to solve this problem. Feel free to think of another way💪.
+   >[!IMPORTANT]
+   > You can actually write your own algorithm, and I believe there is another algorithm to solve this problem. Feel free to think of another way💪.
 
 ### ▶️ Test These Examples:
 

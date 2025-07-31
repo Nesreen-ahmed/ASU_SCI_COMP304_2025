@@ -5,7 +5,7 @@
 | Topic            | Status     | Date Covered      |
 |------------------|------------|-------------------|
 | Scanner          | ✅ Done    | `21/07/2025`    |
-| Top-down Parser  | ⏳ Upcoming     | `...`    |
+| LL1 grammar( `eliminate left recursion` ) | ✅ Done     | `28/07/2025`    |
 | Bottom-up Parser | ⏳ Upcoming     | `...`     |
 | Solving Exams    | ⏳ Upcoming     | `...`    |
 

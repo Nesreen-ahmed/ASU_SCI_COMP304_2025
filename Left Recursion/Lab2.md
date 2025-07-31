@@ -14,9 +14,9 @@
     S' -> a S' | b S' | eps
 
     ❓What do you need to implement this method in c++?
-     ➡️First, we need to read the grammar from the input file and store it in a suitable data structure.
-     ➡️Second, we need to know which rules have and which do not have left recursion.
-     ➡️Third, update the rules according to the previous step.
+         ➡️First, we need to read the grammar from the input file and store it in a suitable data structure.
+         ➡️Second, we need to know which rules have and which do not have left recursion.
+         ➡️Third, update the rules according to the previous step.
 
      ✅Finally, we need three functions `read()`, `hasRecursionOrNot()`, `update()`.
 
@@ -70,18 +70,19 @@
         C' -> b a c C' | eps
         
   ❓ What do you need to implement this method in c++?
-   ➡️First, we need to read the grammar from the input file and store it in a suitable data structure.
-   
-   ➡️Second, we need to compare each pair of non-terminals with each other, and check if any rule leads to the left iteration. When it leads to it, you need to replace it with all the production rules.
-        `Ex:` using previous Example
-        
-          1️⃣ compare (B, A) for all B productions (C b | b), there is no rule has `A` then there is no rule that leads to left recursion.
-          
-          2️⃣ Compare (C, A) For all C productions (A c | c), there is a rule for it `A` so there is a left recursion, so we need to replace A for all its production rules: C -> B a c | a c | c Now we need to update the grammar with this rule and continue.
-
-          3️⃣  Compare (C, B) for all C productions (B a c | a c | c), there is a rule has `B` so there is a left recursion, So we need to replace B for all its production rules: C -> C b a c | b a c | a c | c Now we need to update the grammar with this rule and continue.
-
-   ➡️Check if there is a direct left recursion using previous problem and remove it.
+  
+       ➡️First, we need to read the grammar from the input file and store it in a suitable data structure.
+       
+       ➡️Second, we need to compare each pair of non-terminals with each other, and check if any rule leads to the left iteration. When it leads to it, you need to replace it with all the production rules.
+            `Ex:` using previous Example
+            
+              1️⃣ compare (B, A) for all B productions (C b | b), there is no rule has `A` then there is no rule that leads to left recursion.
+              
+              2️⃣ Compare (C, A) For all C productions (A c | c), there is a rule for it `A` so there is a left recursion, so we need to replace A for all its production rules: C -> B a c | a c | c Now we need to update the grammar with this rule and continue.
+    
+              3️⃣  Compare (C, B) for all C productions (B a c | a c | c), there is a rule has `B` so there is a left recursion, So we need to replace B for all its production rules: C -> C b a c | b a c | a c | c Now we need to update the grammar with this rule and continue.
+    
+       ➡️Check if there is a direct left recursion using previous problem and remove it.
 
    ✅Finally, Notice well that the order of the non-terminals important, and removeing Indirect recursion may lead to direct recursion.
 
